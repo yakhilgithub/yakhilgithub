@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">👋 Hey, I'm Akhilesh Yadav from Pune—a passionate coder on a 30-day challenge. Let's connect and code together! 💻✨ #CodeLife</h2>
+<h2 align="left">👋 Hey, I'm Akhilesh Yadav from Pune—a passionate coder on a 30-day challenge. Let's connect and code together! 💻✨ #CodeLife #Open source Enthusiast</h2>
 
 ###
 
