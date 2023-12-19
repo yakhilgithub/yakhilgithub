@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">👋 Hey, I'm Akhilesh Yadav from Pune—a passionate coder on a 30-day challenge. Let's connect and code together! 💻✨ #CodeLife #Open source Enthusiast</h2>
+<h2 align="left">👋 Hey, I'm Akhilesh Yadav from Pune—a passionate coder on a 30-day challenge. Let's connect and code together! 💻✨ #CodeLife</h2>
 
 ###
 
@@ -44,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo"  />
 </div>
 
 ###
