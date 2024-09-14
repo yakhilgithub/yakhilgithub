@@ -1,6 +1,7 @@
 ###
 
-<h4 align="left">I'm Akhilesh,currently immersed in the dynamic world of Computer Science and Engineering, pursuing my BTech degree in Pune, I have a strong interest in technology, especially Artificial Intelligence. Beyond my studies, I enjoy working on projects and participating in hackathons to apply what I learn.Let's explore the fascinating world of AI and web development together, while also diving into open-source contributions, all with a clear and tech-focused approach!</h4>
+<h4 align="left">Hey, I'm Akhilesh!
+I'm currently pursuing a BTech in Computer Science and Engineering in Pune. I'm passionate about Artificial Intelligence and enjoy applying my skills through hands-on projects and hackathons. I'm constantly exploring new technologies, focusing on AI, web development, and open-source contributions.Let's team up and create cool, tech-driven solutions!</h4>
 
 ###
 
@@ -8,7 +9,15 @@
 
 ###
 
-<h5 align="left">📚 I'm currently learning... the intricacies of full-stack web development, diving into technologies like ReactJs, Nodejs, and MongoDB.<br><br>🎯 Goals: To master the art of web design and development, focusing on cloud security, while constantly expanding my knowledge base.<br><br>🎲 Fun fact: Completed a challenging 30 days, 30 projects web development journey with HTML, CSS, and JS. Daily tweets on Twitter documented the progress. Currently immersed in a MERN stack project and actively contributing to open source projects..<br><br>💻 Languages: Proficient in Python, Rust and Javascript. HTML+CSS+REACT for crafting beautiful and responsive web interfaces.<br><br>📚 Relevant Coursework: Covered essential foundations such as Data Structures & Algorithms, Operating Systems, Object-Oriented Programming, and Database Management System.<br><br>🧰 Tools: Well-versed in using Python libraries, ReactJs, Angular , Nodejs, VScode, Git, and GitHub for efficient and collaborative development.<br><br>☁️ Cloud/Databases: Comfortable working with MongoDB, Firebase, PHP and relational databases like MySQL.<br><br>🤖 Frameworks: Specialized in ReactJs for building dynamic and interactive user interfaces.<br><br>🌐 Areas of Interest: Passionate about Web Design and Development, with a keen focus on ensuring Cloud Security.<br><br>🌐 Soft Skills: Known for strong problem-solving abilities, a commitment to self-learning, and a knack for commercial thinking.<br><br>🚀 Recently completed a 30-day web dev challenge, showcasing consistent dedication and a love for coding adventures!</h5>
+<h5 align="left">📚 I'm a full-stack web developer with 1 year of experience, specializing in React, Node.js, Hono.js/Express.js and MongoDB.
+<br/><br/> 🌟 Open Source Contributions: I actively contribute to open-source projects and participated in GSSoC'24, where I made meaningful contributions.
+<br/><br/> 🔗 Blockchain Enthusiast: Alongside web development, I’m exploring blockchain development. I’ve learned Rust and am participating in blockchain hackathons to deepen my knowledge.
+<br/><br/> 🚀 Projects:I’m working on several exciting projects, including a SaaS platform called Linkshalaa (soon to be deployed), a generic medicine finder, and LLM projects using Hugging Face. I have many more projects in development that I’ll be revealing soon on my GitHub.
+<br/><br/> 💻 Interests: My primary focus is on web development and building AI-powered products.
+<br/><br/> 🎥 Content Creation: I also create content on YouTube, sharing fascinating space facts and technology-related insights.
+<br/><br/>  I'm constantly learning and working on innovative solutions that push the boundaries of technology.
+
+</h5>
 
 ###
 
@@ -17,8 +26,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
