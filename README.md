@@ -1,53 +1,83 @@
-###
+<h1 align="left">Hi, I'm Akhilesh</h1>
 
-<h4 align="left">Hey, I'm Akhilesh!
-I'm currently pursuing a BTech in Computer Science and Engineering in Pune. I'm passionate about Artificial Intelligence and enjoy applying my skills through hands-on projects and hackathons. I'm constantly exploring new technologies, focusing on AI, web development, and open-source contributions.Let's team up and create cool, tech-driven solutions!</h4>
+<p align="left">
+I'm a full-stack developer who enjoys building fast, simple, and meaningful products.  
+Most of my work involves combining web development with AI, exploring how tools like LLMs, automation, and modern frameworks can make ideas come alive.  
+I like taking projects from scratch to deployment, experimenting through hackathons, and sharing concepts I learn along the way.
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+##  About Me
 
-###
+I focus on shipping practical, clean, and efficient solutions across the full stack.  
+I enjoy exploring GenAI, automation, and tools that improve developer workflows.
 
-<h5 align="left">📚 I'm a full-stack web developer with 1 year of experience, specializing in React, Node.js, Hono.js/Express.js and MongoDB.
-<br/><br/> 🌟 Open Source Contributions: I actively contribute to open-source projects and participated in GSSoC'24, where I made meaningful contributions.
-<br/><br/> 🔗 Blockchain Enthusiast: Alongside web development, I’m exploring blockchain development. I’ve learned Rust and am participating in blockchain hackathons to deepen my knowledge.
-<br/><br/> 🚀 Projects:I’m working on several exciting projects, including a SaaS platform called Linkshalaa (soon to be deployed), a generic medicine finder, and LLM projects using Hugging Face. I have many more projects in development that I’ll be revealing soon on my GitHub.
-<br/><br/> 💻 Interests: My primary focus is on web development and building AI-powered products.
-<br/><br/> 🎥 Content Creation: I also create content on YouTube, sharing fascinating space facts and technology-related insights.
-<br/><br/>  I'm constantly learning and working on innovative solutions that push the boundaries of technology.
+I like building small utilities, AI-powered tools, and full-fledged web apps.  
+Hackathons help me test ideas quickly, and many of those concepts later turn into real projects.
 
-</h5>
+When I’m not coding, I create content around tech and space—mostly because I enjoy explaining things I’m curious about.  
+I’m always learning, experimenting, and taking on ideas that push me to grow.
 
-###
+---
 
-<h2 align="left">I code with</h2>
-
-###
+## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+
+### **Languages & Runtime**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40"/>
+
+<br/><br/>
+
+### **Frontend**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
+<img src="https://cdn.simpleicons.org/framer" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
+
+<br/><br/>
+
+### **Backend & APIs**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/honojs/branding/main/hono-logo-small.png" height="40"/>
+
+<br/><br/>
+
+### **Databases**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" height="40"/>
+
+<br/><br/>
+
+### **AI & ML**
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40"/>
+<img src="https://cdn.simpleicons.org/gradio" height="40"/>
+
+<br/><br/>
+
+### **Tools & DevOps**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 
 </div>
 
-###
+---
+
+##  Current Focus
+- Building AI-powered utilities  
+- Publishing more projects consistently  
+- Experimenting with automation and modern frameworks  
+- Participating in hackathons and solving real-world problems  
+
+---
